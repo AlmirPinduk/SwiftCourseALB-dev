@@ -1,0 +1,570 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		93FDBBC82CF0A89600F23298 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93FDBBA92CF0A89400F23298 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93FDBBB02CF0A89400F23298;
+			remoteInfo = "i am ritch";
+		};
+		93FDBBD22CF0A89600F23298 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 93FDBBA92CF0A89400F23298 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 93FDBBB02CF0A89400F23298;
+			remoteInfo = "i am ritch";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		93FDBBB12CF0A89400F23298 /* i am ritch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "i am ritch.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93FDBBC72CF0A89600F23298 /* i am ritchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "i am ritchTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		93FDBBD12CF0A89600F23298 /* i am ritchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "i am ritchUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		93FDBBD92CF0A89600F23298 /* Exceptions for "i am ritch" folder in "i am ritch" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 93FDBBB02CF0A89400F23298 /* i am ritch */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		93FDBBB32CF0A89400F23298 /* i am ritch */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				93FDBBD92CF0A89600F23298 /* Exceptions for "i am ritch" folder in "i am ritch" target */,
+			);
+			path = "i am ritch";
+			sourceTree = "<group>";
+		};
+		93FDBBCA2CF0A89600F23298 /* i am ritchTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "i am ritchTests";
+			sourceTree = "<group>";
+		};
+		93FDBBD42CF0A89600F23298 /* i am ritchUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "i am ritchUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		93FDBBAE2CF0A89400F23298 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FDBBC42CF0A89600F23298 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FDBBCE2CF0A89600F23298 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		93FDBBA82CF0A89400F23298 = {
+			isa = PBXGroup;
+			children = (
+				93FDBBB32CF0A89400F23298 /* i am ritch */,
+				93FDBBCA2CF0A89600F23298 /* i am ritchTests */,
+				93FDBBD42CF0A89600F23298 /* i am ritchUITests */,
+				93FDBBB22CF0A89400F23298 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		93FDBBB22CF0A89400F23298 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				93FDBBB12CF0A89400F23298 /* i am ritch.app */,
+				93FDBBC72CF0A89600F23298 /* i am ritchTests.xctest */,
+				93FDBBD12CF0A89600F23298 /* i am ritchUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		93FDBBB02CF0A89400F23298 /* i am ritch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93FDBBDA2CF0A89600F23298 /* Build configuration list for PBXNativeTarget "i am ritch" */;
+			buildPhases = (
+				93FDBBAD2CF0A89400F23298 /* Sources */,
+				93FDBBAE2CF0A89400F23298 /* Frameworks */,
+				93FDBBAF2CF0A89400F23298 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				93FDBBB32CF0A89400F23298 /* i am ritch */,
+			);
+			name = "i am ritch";
+			packageProductDependencies = (
+			);
+			productName = "i am ritch";
+			productReference = 93FDBBB12CF0A89400F23298 /* i am ritch.app */;
+			productType = "com.apple.product-type.application";
+		};
+		93FDBBC62CF0A89600F23298 /* i am ritchTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93FDBBDF2CF0A89600F23298 /* Build configuration list for PBXNativeTarget "i am ritchTests" */;
+			buildPhases = (
+				93FDBBC32CF0A89600F23298 /* Sources */,
+				93FDBBC42CF0A89600F23298 /* Frameworks */,
+				93FDBBC52CF0A89600F23298 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93FDBBC92CF0A89600F23298 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				93FDBBCA2CF0A89600F23298 /* i am ritchTests */,
+			);
+			name = "i am ritchTests";
+			packageProductDependencies = (
+			);
+			productName = "i am ritchTests";
+			productReference = 93FDBBC72CF0A89600F23298 /* i am ritchTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		93FDBBD02CF0A89600F23298 /* i am ritchUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 93FDBBE22CF0A89600F23298 /* Build configuration list for PBXNativeTarget "i am ritchUITests" */;
+			buildPhases = (
+				93FDBBCD2CF0A89600F23298 /* Sources */,
+				93FDBBCE2CF0A89600F23298 /* Frameworks */,
+				93FDBBCF2CF0A89600F23298 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				93FDBBD32CF0A89600F23298 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				93FDBBD42CF0A89600F23298 /* i am ritchUITests */,
+			);
+			name = "i am ritchUITests";
+			packageProductDependencies = (
+			);
+			productName = "i am ritchUITests";
+			productReference = 93FDBBD12CF0A89600F23298 /* i am ritchUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		93FDBBA92CF0A89400F23298 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					93FDBBB02CF0A89400F23298 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					93FDBBC62CF0A89600F23298 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 93FDBBB02CF0A89400F23298;
+					};
+					93FDBBD02CF0A89600F23298 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 93FDBBB02CF0A89400F23298;
+					};
+				};
+			};
+			buildConfigurationList = 93FDBBAC2CF0A89400F23298 /* Build configuration list for PBXProject "i am ritch" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 93FDBBA82CF0A89400F23298;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 93FDBBB22CF0A89400F23298 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				93FDBBB02CF0A89400F23298 /* i am ritch */,
+				93FDBBC62CF0A89600F23298 /* i am ritchTests */,
+				93FDBBD02CF0A89600F23298 /* i am ritchUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		93FDBBAF2CF0A89400F23298 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FDBBC52CF0A89600F23298 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FDBBCF2CF0A89600F23298 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		93FDBBAD2CF0A89400F23298 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FDBBC32CF0A89600F23298 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		93FDBBCD2CF0A89600F23298 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		93FDBBC92CF0A89600F23298 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93FDBBB02CF0A89400F23298 /* i am ritch */;
+			targetProxy = 93FDBBC82CF0A89600F23298 /* PBXContainerItemProxy */;
+		};
+		93FDBBD32CF0A89600F23298 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 93FDBBB02CF0A89400F23298 /* i am ritch */;
+			targetProxy = 93FDBBD22CF0A89600F23298 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		93FDBBDB2CF0A89600F23298 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 39447ZCN9T;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "i am ritch/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.almir.i-am-ritch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		93FDBBDC2CF0A89600F23298 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 39447ZCN9T;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "i am ritch/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.almir.i-am-ritch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		93FDBBDD2CF0A89600F23298 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		93FDBBDE2CF0A89600F23298 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		93FDBBE02CF0A89600F23298 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.almir.i-am-ritchTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/i am ritch.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/i am ritch";
+			};
+			name = Debug;
+		};
+		93FDBBE12CF0A89600F23298 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.almir.i-am-ritchTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/i am ritch.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/i am ritch";
+			};
+			name = Release;
+		};
+		93FDBBE32CF0A89600F23298 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.almir.i-am-ritchUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "i am ritch";
+			};
+			name = Debug;
+		};
+		93FDBBE42CF0A89600F23298 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "co.almir.i-am-ritchUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "i am ritch";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		93FDBBAC2CF0A89400F23298 /* Build configuration list for PBXProject "i am ritch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FDBBDD2CF0A89600F23298 /* Debug */,
+				93FDBBDE2CF0A89600F23298 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93FDBBDA2CF0A89600F23298 /* Build configuration list for PBXNativeTarget "i am ritch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FDBBDB2CF0A89600F23298 /* Debug */,
+				93FDBBDC2CF0A89600F23298 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93FDBBDF2CF0A89600F23298 /* Build configuration list for PBXNativeTarget "i am ritchTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FDBBE02CF0A89600F23298 /* Debug */,
+				93FDBBE12CF0A89600F23298 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		93FDBBE22CF0A89600F23298 /* Build configuration list for PBXNativeTarget "i am ritchUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93FDBBE32CF0A89600F23298 /* Debug */,
+				93FDBBE42CF0A89600F23298 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 93FDBBA92CF0A89400F23298 /* Project object */;
+}
